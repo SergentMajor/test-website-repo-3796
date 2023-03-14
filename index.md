@@ -1,6 +1,8 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Histoires de plumes
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ce site expérimental est voué à accueillir des **Histoires de plumes** ou, autrement dit, des bavardages écrits à seule fin de nourrir le site.
+
+L'allusion surannée aux plumes à écrire est un clin d'œil cryptique aux tenants obstinés de l'écriture manuelle, celle par laquelle le cerveau humain se forme depuis des millénaires.
